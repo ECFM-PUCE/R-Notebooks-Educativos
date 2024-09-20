@@ -9,7 +9,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">R notebooks Educativos</h3>
+<h1 align="center">R notebooks Educativos</h1>
   <p align="center">
     Repositorio de notebooks educativos en R diseñados para aprender y dominar el uso del lenguaje R desde conceptos básicos hasta avanzados.<br />
     <a href="https://github.com/ECFM-PUCE/R-Notebooks-Educativos/issues">Reportar un Problema</a>
@@ -36,7 +36,7 @@ En construcción...
 
 Se tienen los siguientes archivos en el repositorio:
 
-- [00-Introducción_a_R.ipynb](/00-Introducción_a_R.ipynb): Donde se introduce el lenguaje R y se presentan los conceptos básicos.
+- [00-Introduccion_a_R.ipynb](/00-Introduccion_a_R.ipynb): Donde se introduce el lenguaje R y se presentan los conceptos básicos.
 
 ## Créditos
 
