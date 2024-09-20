@@ -36,7 +36,8 @@ En construcción...
 
 Se tienen los siguientes archivos en el repositorio:
 
-- [00-Introduccion_a_R.ipynb](/00-Introduccion_a_R.ipynb): Donde se introduce el lenguaje R y se presentan los conceptos básicos.
+- [Intro2R.ipynb](/Intro2R.ipynb): Donde se introduce el lenguaje R y se presentan los conceptos básicos.
+- [FunBasic.ipynb](/FunBasic.ipynb): Donde se presentan las funciones básicas en R.
 
 ## Créditos
 
